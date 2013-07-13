@@ -4,7 +4,7 @@
   <title><![CDATA[Statistics Notes]]></title>
   <link href="http://taohill.github.io/atom.xml" rel="self"/>
   <link href="http://taohill.github.io/"/>
-  <updated>2013-07-13T16:29:30+08:00</updated>
+  <updated>2013-07-13T16:42:21+08:00</updated>
   <id>http://taohill.github.io/</id>
   <author>
     <name><![CDATA[Hill Tao]]></name>
@@ -54,7 +54,7 @@ you want to see what the actual code chunk was).
 
 
 <div id="fig:hist_01" class="figure">
-<p><img src="d:/images/fig1.png" width="400px" alt="fig1.png"/></p>
+<p><img src="http://taohill.github.io/images/fig1.png" width="400px" alt="fig1.png"/></p>
 <p>A scatter plot</p>
 </div>
 
